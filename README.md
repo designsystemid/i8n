@@ -13,3 +13,14 @@
 ```
 ## Preview
 ![Preview](https://github.com/designsystemid/i8n/blob/master/images/sample.PNG?raw=true)
+
+## How to use
+Include the css in your template
+
+https://bootstrapbuildspace.sfo2.cdn.digitaloceanspaces.com//qPkknCYMHQrz/BbJwpVAMIdeR/bootstrap.css
+
+OR the minified version
+
+https://bootstrapbuildspace.sfo2.cdn.digitaloceanspaces.com//qPkknCYMHQrz/BbJwpVAMIdeR/bootstrap.min.css
+
+Then please refer to https://getbootstrap.com/docs/4.5/getting-started/introduction/
