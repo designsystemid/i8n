@@ -1,4 +1,4 @@
-# Setneg-X Design System (beta)
+# X Design System (beta)
 
 ## Color
 | Color        | Code           | 
